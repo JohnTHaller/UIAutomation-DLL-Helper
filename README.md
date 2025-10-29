@@ -13,6 +13,7 @@ I've created a basic UIAutomation.dll using [Dummy DLL Generator](https://github
 
 1. Download the UIAutomation.dll file from the [Releases section](https://github.com/JohnTHaller/UIAutomation-DLL-Helper/releases)
 2. Place the DLL in the same directory as your Delphi executable
+3. Profit!
 
 ## License
 
