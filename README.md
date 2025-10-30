@@ -19,4 +19,4 @@ I've created a basic UIAutomation.dll using [Dummy DLL Generator](https://github
 
 The DLL is licensed under the MIT license for compatibility with any release you'd like to use it with.
 
-** To set the PE version in Delphi 13 of a given project, click Project from the main menu, then select Options, expand Building, expand Delphi Compiler, expand Linking, then adjust the fields "Set OS Versdion fields in PE Header as..." and "Set Subsystem Version fields in PE Header as..." to 5.1. If you use System.Threading, you'll need to [tweak GetTickCount](https://en.delphipraxis.net/topic/5536-delphi-11-windows-xp-compatibility-tweak/).
+*** To set the PE version in Delphi 13 of a given project, click Project from the main menu, then select Options, expand Building, expand Delphi Compiler, expand Linking, then adjust the fields "Set OS Versdion fields in PE Header as..." and "Set Subsystem Version fields in PE Header as..." to 5.1. If you use System.Threading, you'll need to [tweak GetTickCount](https://en.delphipraxis.net/topic/5536-delphi-11-windows-xp-compatibility-tweak/).
