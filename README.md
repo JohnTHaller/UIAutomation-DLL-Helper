@@ -1,4 +1,4 @@
-# UIAutomation DLL Helper for Windows XP, Windows 2003, and ReactOS
+# UIAutomation DLL Helper - Allows Delphi 13 Apps to Work on Windows XP, Windows 2003, and ReactOS
 
 ![GitHub Release](https://img.shields.io/github/v/release/JohnTHaller/UIAutomation-DLL-Helper)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/JohnTHaller/UIAutomation-DLL-Helper/total)
