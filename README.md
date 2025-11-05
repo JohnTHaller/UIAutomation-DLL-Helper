@@ -17,7 +17,7 @@ I've created a basic UIAutomation.dll using [Dummy DLL Generator](https://github
 
 ## Known Issues / Bugs
 
-With this workaround in place, executing a TOpenDialog will cause the app to crash on some Windows 10 PCs (and possibly other machines as a specific reason has not been determined). I recommend only including the UIAutomation.dll file on Windows XP systems.
+With this workaround in place, executing a TOpenDialog will cause the app to crash on some PCs with later versions of Windows. A specific reason reason has not been determined. I recommend only including the UIAutomation.dll file on Windows XP systems.
 
 ## Setting The PE Header in Delphi 13 For Compatibility With Legacy Windows
 
